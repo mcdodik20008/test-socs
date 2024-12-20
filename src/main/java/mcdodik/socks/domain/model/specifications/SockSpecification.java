@@ -1,4 +1,4 @@
-package mcdodik.socks.domain.specifications;
+package mcdodik.socks.domain.model.specifications;
 
 import liquibase.repackaged.net.sf.jsqlparser.util.validation.ValidationException;
 import mcdodik.socks.domain.model.entity.Sock;

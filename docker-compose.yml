@@ -10,8 +10,3 @@ services:
       POSTGRES_USER: boob
       POSTGRES_PASSWORD: 1234
       POSTGRES_DB: sock
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
-
-volumes:
-  postgres_data:

@@ -6,7 +6,7 @@ import mcdodik.socks.domain.model.mapper.SockMapper;
 import mcdodik.socks.domain.model.view.*;
 import mcdodik.socks.domain.repository.SockRepository;
 import mcdodik.socks.domain.service.api.SockService;
-import mcdodik.socks.domain.specifications.SockSpecification;
+import mcdodik.socks.domain.model.specifications.SockSpecification;
 import mcdodik.socks.infrastructure.exceptions.FileProcessingException;
 import mcdodik.socks.infrastructure.exceptions.InsufficientStockException;
 import org.apache.commons.csv.CSVFormat;
